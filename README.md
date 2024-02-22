@@ -2,8 +2,7 @@
 The dataset collected for challenging ChatGPT for true/false prediction of news of the two main political parties in the US. sources used for news: 1) https://www.snopes.com 2) https://www.politifact.com
 This dataset has been collected to investigate fairness or bias inherent in ChatGPT's responses.
 
-based on the fact check news on "https://www.snopes.com" and  "https://www.politifact.com"
-
+based on the fact check news on the mentioned news websites.
 
 
 
